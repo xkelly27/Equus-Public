@@ -29,4 +29,5 @@ custom_logit <- function(data, formula, output="Odds Ratio") {
   return(to_return)
 }
 
-
+# need support vector machine
+# then check multinomial logit
